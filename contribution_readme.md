@@ -1,15 +1,15 @@
-# Contribution [#]: [Issue Title]
+# Contribution 1: Stop scrolling the console to the bottom when multiple errors are shown
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1 
+**Student:** Macy Jiang
+**Issue:** [Stop scrolling the console to the bottom when multiple errors are shown](https://github.com/flutter/flutter-intellij/issues/3778)
+**Status:** Phase I, In Progress
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it is a user facing UX problem with a clear expected outcome: when multiple errors flood the logging console, the console auto-scrolls to the bottom, forcing the user to manually scroll back up to find the root cause error at the top. Fixing this error would directly improves the day-to-day experience of Flutter developer, which makes it more interesting to me since it has some impact. The issue is labeled `good-first-issue`, so I chose it since it is my first time working on an issue.
 
 ---
 
