@@ -108,14 +108,14 @@ Using UMPIRE framework (adapted):
 
 ### Manual Testing
 
-- [ ] Run `flutter_error_studies` in IntelliJ with the patched plugin, tap "Unbounded Viewport", confirm console stays at top
-- [ ] Confirm that normal single-error output still works as expected
-- [ ] Confirm that intentional user scroll-to-bottom still works
+- [x] Run `flutter_error_studies` in IntelliJ with the patched plugin, tap "Unbounded Viewport", confirm console stays at top
+- [x] Confirm that normal single-error output still works as expected
+- [x] Confirm that intentional user scroll-to-bottom still works
 
 ### Unit/Integration Tests
 
-- [ ] Identify existing console-related tests in the flutter-intellij test suite
-- [ ] Add a test case verifying scroll position is preserved when large error output is appended
+- [x] Identify existing console-related tests in the flutter-intellij test suite
+- [x] Add a test case verifying scroll position is preserved when large error output is appended
 
 ---
 
